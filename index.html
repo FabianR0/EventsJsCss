@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  
+
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="estatico" data-text-value="MI TIENDITA">Mi Tiendita</h1>
+    <nav class="respon">
+        <script type="module" src="https://unpkg.com/@splinetool/viewer@1.6.9/build/spline-viewer.js"></script>
+        <spline-viewer url="https://prod.spline.design/jceB-ZLIpYzbKe2C/scene.splinecode"></spline-viewer>
+        <button class="hola" onclick="filterItems('all')">All</button>
+        <button class="hola" onclick="filterItems('desayuno')">Breakfast</button>
+        <button class="hola" onclick="filterItems('almuerzo')">Lunch</button>
+        <button class="hola" onclick="filterItems('batido')">Shakes</button>
+        <button class="hola" onclick="filterItems('cena')">Dinner</button>
+        <button class="hola" onclick="filterItems('postre')">dessert</button>       
+    </nav>
+    <hr>
+    <div class="card">
+        <div class="cuadro" onclick="location.href='actions.html'">1. More Actions</div>
+        <div class="cuadro">2</div>
+        <div class="cuadro">3</div>
+        <div class="cuadro">4</div>
+    </div>
+    <br>
+    <hr>
+    <div id="elemento"></div>
+    <br>
+    <hr>
+    <script src="js/script.js"></script>
+</body>
+</html>

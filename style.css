@@ -1,0 +1,81 @@
+body{
+    background: burlywood;
+}
+.animated-text{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: clamp(3rem, 10vw, 10rem);
+    color: black;
+    text-transform: uppercase;
+}
+.hola{
+    background-color: rosybrown;
+    margin-right: 30px;
+    width: 80px;
+    height: 50px;
+}
+.hola:hover{ /* animacion de ampliar hacia todos los lados */
+    transform: scale(1.2);
+    transition: 1s;
+}
+.tresd{
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+    border-radius: 25px;
+}
+.respon{
+    display: flex;
+    align-items: center;
+}
+.responsive{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left:100px;
+    justify-content: flex-start;
+}
+.responsivo{
+    display: flex;
+    flex-direction: column;
+}
+p{
+    margin-left:inherit;
+}
+button{
+    border-radius: 10%;
+}
+.estatico{
+    position: sticky;
+    top: 0;
+    backdrop-filter: blur(45px);
+    box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
+    border: 2px solid rgba(255, 225, 225, 0.18);
+    text-align: center;
+}
+.titulo{
+    
+}
+.precio{
+
+}
+.imagen{
+    
+}
+.descrip{
+
+}
+.cuadro{
+    height: 60px;
+    background: firebrick;
+    margin-left: 5px;
+    flex: 1;
+    display: flex;
+      align-items: center;
+      justify-content: center; 
+}
+.cuadro:hover{
+    flex: 3;
+}
+.card{
+    display: flex;
+}

@@ -1,0 +1,177 @@
+[
+    {
+        "id": "desayuno",
+        "titulo": "Panqueques",
+        "descrip": "Panqueques esponjosos servidos con jarabe de arce y frutas frescas.",
+        "precio": "5.99",
+        "imagen": "panqueques.jpg"
+    },
+    {
+        "id": "desayuno",
+        "titulo": "Omelette de Vegetales",
+        "descrip": "Omelette relleno de pimientos, cebolla, espinaca y queso.",
+        "precio": "6.99",
+        "imagen": "omelette.jpg"
+    },
+    {
+        "id": "desayuno",
+        "titulo": "Tostadas Francesas",
+        "descrip": "Tostadas empapadas en huevo y leche, servidas con mantequilla y jarabe.",
+        "precio": "5.49",
+        "imagen": "tostadas_francesas.jpg"
+    },
+    {
+        "id": "desayuno",
+        "titulo": "Cereal con Leche",
+        "descrip": "Cereal integral servido con leche fría.",
+        "precio": "3.99",
+        "imagen": "cereal.jpg"
+    },
+    {
+        "id": "desayuno",
+        "titulo": "Smoothie de Frutas",
+        "descrip": "Batido de frutas frescas con yogur y miel.",
+        "precio": "4.99",
+        "imagen": "smoothie.jpg"
+    },
+    {
+        "id": "almuerzo",
+        "titulo": "Ensalada César",
+        "descrip": "Ensalada clásica con lechuga romana, crutones y aderezo César.",
+        "precio": "7.99",
+        "imagen": "ensalada_cesar.jpg"
+    },
+    {
+        "id": "almuerzo",
+        "titulo": "Sándwich de Pollo",
+        "descrip": "Sándwich de pollo a la parrilla con lechuga, tomate y mayonesa.",
+        "precio": "8.49",
+        "imagen": "sandwich_pollo.jpg"
+    },
+    { 
+        "id": "almuerzo",
+        "titulo": "Hamburguesa Clásica",
+        "descrip": "Hamburguesa de carne de res con queso, lechuga, tomate y cebolla.",
+        "precio": "9.99",
+        "imagen": "hamburguesa.jpg"
+    },
+    {
+        "id": "almuerzo",
+        "titulo": "Tacos de Carne Asada",
+        "descrip": "Tacos rellenos de carne asada, cilantro, cebolla y salsa.",
+        "precio": "7.49",
+        "imagen": "tacos_carne_asada.jpg"
+    },
+    {
+        "id": "almuerzo",
+        "titulo": "Sopa de Pollo",
+        "descrip": "Sopa casera de pollo con verduras y fideos.",
+        "precio": "6.99",
+        "imagen": "sopa_pollo.jpg"
+    },
+    {
+        "id": "cena",
+        "titulo": "Filete de Salmón",
+        "descrip": "Filete de salmón a la parrilla con salsa de limón y eneldo.",
+        "precio": "14.99",
+        "imagen": "filete_salmon.jpg"
+    },
+    {
+        "id": "cena",
+        "titulo": "Pasta Alfredo",
+        "descrip": "Pasta fettuccine con salsa Alfredo cremosa.",
+        "precio": "12.99",
+        "imagen": "pasta_alfredo.jpg"
+    },
+    {
+        "id": "cena",
+        "titulo": "Enchiladas de Pollo",
+        "descrip": "Enchiladas rellenas de pollo y cubiertas con salsa roja.",
+        "precio": "11.49",
+        "imagen": "enchiladas_pollo.jpg"
+    },
+    {
+        "id": "cena",
+        "titulo": "Pizza Margherita",
+        "descrip": "Pizza con salsa de tomate, mozzarella fresca y albahaca.",
+        "precio": "10.99",
+        "imagen": "pizza_margherita.jpg"
+    },
+    {
+        "id": "cena",
+        "titulo": "Lasaña de Carne",
+        "descrip": "Lasaña clásica con capas de carne, salsa de tomate y queso.",
+        "precio": "13.99",
+        "imagen": "lasana_carne.jpg"
+    },
+    {
+        "id": "postre",
+        "titulo": "Helado de Vainilla",
+        "descrip": "Helado cremoso de vainilla.",
+        "precio": "3.49",
+        "imagen": "helado_vainilla.jpg"
+    },
+    {
+        "id": "postre",
+        "titulo": "Tarta de Manzana",
+        "descrip": "Tarta de manzana casera con masa crujiente y relleno dulce.",
+        "precio": "4.99",
+        "imagen": "tarta_manzana.jpg"
+    },
+    {
+        "id": "postre",
+        "titulo": "Brownie de Chocolate",
+        "descrip": "Brownie de chocolate con nueces.",
+        "precio": "2.99",
+        "imagen": "brownie.jpg"   
+    },
+    {
+        "id": "postre",
+        "titulo": "Cheesecake",
+        "descrip": "Cheesecake cremoso con base de galleta y cobertura de fresas.",
+        "precio": "5.49",
+        "imagen": "cheesecake.jpg"
+    },
+    {
+        "id": "postre",
+        "titulo": "Mousse de Chocolate",
+        "descrip": "Mousse ligero y aireado de chocolate.",
+        "precio": "4.49",
+        "imagen": "mousse_chocolate.jpg"
+    },
+    {
+        "id": "batido",
+        "titulo": "Batido de Fresa",
+        "descrip": "Batido cremoso de fresa con leche y helado.",
+        "precio": "4.49",
+        "imagen": "batido_fresa.jpg"
+    },
+    {
+        "id": "batido",
+        "titulo": "Batido de Plátano",
+        "descrip": "Batido de plátano con leche y miel.",
+        "precio": "4.49",
+        "imagen": "batido_platano.jpg"
+    },
+    {
+        "id": "batido",
+        "titulo": "Batido de Mango",
+        "descrip": "Batido de mango con yogur y un toque de limón.",
+        "precio": "4.99",
+        "imagen": "batido_mango.jpg"
+    },
+    {
+        "id": "batido",
+        "titulo": "Batido de Chocolate",
+        "descrip": "Batido de chocolate con helado de vainilla y crema batida.",
+        "precio": "5.49",
+        "imagen": "batido_chocolate.jpg"
+    },
+    {
+        "id": "batido",
+        "titulo": "Batido Verde",
+        "descrip": "Batido saludable de espinacas, manzana, plátano y jengibre.",
+        "precio": "4.99",
+        "imagen": "batido_verde.jpg"
+    }
+]
